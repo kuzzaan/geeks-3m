@@ -1,0 +1,33 @@
+.card {
+  display: flex;
+  flex-direction: column;
+  width: 150px;
+  border: 1px solid;
+}
+.phoneContainer {
+  justify-content: center;
+  display: flex;
+  flex-wrap: wrap;
+}
+div {
+  display: flex;
+  padding: 30px;
+}
+h2 {
+  display: flex;
+  justify-content: center;
+}
+p {
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+span {
+  display: flex;
+  justify-content: center;
+  padding-bottom: 10px;
+}
+h1 {
+  display: flex;
+  justify-content: center;
+}
